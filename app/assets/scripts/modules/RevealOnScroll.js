@@ -51,4 +51,4 @@ class RevealOnScroll {
     }
 }
 
-export default RevealOnScroll;
+export default RevealOnScroll
